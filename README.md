@@ -94,6 +94,12 @@ Analysis Results & Reports
 * Flutter
 * Dart
 
+<img width="326" height="729" alt="image" src="https://github.com/user-attachments/assets/feae26df-c94b-415f-9180-74c7dad5edae" /> <img width="345" height="733" alt="image" src="https://github.com/user-attachments/assets/12fe81cd-73f2-4825-94cb-839c27d36c1f" /> <img width="322" height="738" alt="image" src="https://github.com/user-attachments/assets/e99f1b04-c9b0-422d-992c-bc4f117565e8" /> <img width="338" height="732" alt="image" src="https://github.com/user-attachments/assets/6b6fc265-b2fb-41a8-a7f9-2b2a6d48b613" /> <img width="333" height="727" alt="image" src="https://github.com/user-attachments/assets/0ecd689d-2d0a-49c2-977d-651eeb6af204" /> <img width="330" height="729" alt="image" src="https://github.com/user-attachments/assets/38ddc287-ee9c-415b-a485-1aff3788978f" /> <img width="335" height="734" alt="image" src="https://github.com/user-attachments/assets/f4324777-4c95-4c4b-a75d-2365f423f6c8" />
+
+
+
+
+
 ### Backend
 
 * Flask
@@ -135,6 +141,8 @@ Predicts patient fall risk using demographic and clinical features.
 
 * 94% Accuracy
 * 100% Recall for High-Risk Cases
+<img width="351" height="719" alt="image" src="https://github.com/user-attachments/assets/d8f93097-94d0-45d9-a482-c788c0f77e69" />
+
 
 ### 2. GaitAnalyzer
 
@@ -146,6 +154,7 @@ Techniques:
 * Background Subtraction
 * Motion Tracking
 * Feature Engineering
+<img width="330" height="731" alt="image" src="https://github.com/user-attachments/assets/1c2f9910-e257-4b38-b4e1-8dfdd39d20bc" />
 
 ### 3. FOG Detection Model
 
@@ -154,6 +163,7 @@ Deep Learning model for detecting Freezing of Gait episodes.
 Framework:
 
 * TensorFlow / Keras
+<img width="335" height="728" alt="image" src="https://github.com/user-attachments/assets/d85a81b3-9330-4375-b08a-ba16665159e5" />
 
 ### 4. Gait Anomaly Localization
 
@@ -163,6 +173,7 @@ Explainable AI module based on:
 * AnoGAN
 
 Used for identifying abnormal gait behavior and affected body regions.
+<img width="340" height="648" alt="image" src="https://github.com/user-attachments/assets/7ceb75fe-2d63-4ea0-84b8-1d226c6f4e81" />
 
 ---
 
