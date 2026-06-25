@@ -1,0 +1,11 @@
+Patient_ID,Expected_Category_For_Tester,Age,BMI,History_of_Falls,Secondary_Diagnosis,Ambulatory_Aid,IV_Therapy,Gait_Status,Mental_Status,Vision_Impairment,Osteoporosis,Medications_Count
+Test_001,Low Risk (Healthy Young),55.0,24.0,0,0,0,0,0,0,0,0,1
+Test_002,High Risk (Critical Senior),85.0,22.5,1,1,2,0,2,1,1,1,8
+Test_003,Low Risk (Healthy Senior),65.0,28.1,0,1,0,0,0,0,0,0,3
+Test_004,High Risk (Borderline/Medicated),78.0,30.0,0,1,1,1,1,0,1,1,6
+Test_005,Low Risk,60.0,25.5,0,0,0,0,0,0,0,0,2
+Test_006,High Risk (Frail Senior),90.0,19.0,1,1,2,0,2,1,1,1,10
+Test_007,Low Risk (Vision Impaired only),70.0,26.4,0,0,0,0,0,0,1,0,4
+Test_008,High Risk (History of falls & Aid),82.0,28.0,1,1,1,1,1,0,0,1,7
+Test_009,Low Risk,58.0,22.0,0,0,0,0,0,0,0,0,1
+Test_010,High Risk (Severe Profile),88.0,21.5,1,1,2,0,2,1,1,1,9
